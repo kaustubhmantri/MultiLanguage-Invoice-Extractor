@@ -26,8 +26,8 @@
   streamlit run app.py
 ```
 
-### Tech Stack-
--Frontend: Streamlit
--Generative AI Model: Gemini 1.5 Flash
--Programming Language: Python
+### Tech Stack
+- Frontend: Streamlit
+- Generative AI Model: Gemini 1.5 Flash
+- Programming Language: Python
 
